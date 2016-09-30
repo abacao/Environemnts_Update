@@ -2,7 +2,7 @@
 #
 # Scritp to automate Monthly upgrades and reboots by using Mcollective
 #
-# Authors: andre@bacao@.pt
+# Authors: andre@bacao.pt
 #
 # V. 1.3
 #
